@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmarharsh2490" alt="parmarharsh2490" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on **Dialoft AI**
 
 - 🌱 I’m currently learning **Angular, Spring boot**
 
